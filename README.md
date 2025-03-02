@@ -67,7 +67,7 @@
 ## 📢 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-🚀 [How to Automate Server Deployment with Ansible](#)  
+🚀 [How install Arch Linux and configure services](https://github.com/KMontasir/Procedures/tree/main/ArchLinux)  
 🔍 [Optimizing CI/CD Pipelines with GitHub Actions](#)  
 ☁️ [Introduction to Infrastructure as Code (IaC)](#)  
 <!-- BLOG-POST-LIST:END -->
