@@ -13,8 +13,8 @@
 
 ## 🏆 About Me  
 
-🚀 **IT Professional & DevOps Engineer** passionate about **automation, scripting, and cloud computing**.  
-💡 I specialize in **Linux, CI/CD, Infrastructure as Code (IaC), and IT security**.  
+🚀 **IT Professional & passionate about **automation, scripting, and cloud computing**.  
+💡 I specialize in **Linux, Infrastructure as Code (IaC), and IT security**.  
 🔍 Always **learning, innovating, and contributing** to open-source projects.  
 
 📫 **Let's Connect!**  
@@ -67,9 +67,8 @@
 ## 📢 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-🚀 [How install Arch Linux and configure services](https://github.com/KMontasir/Procedures/tree/main/ArchLinux)  
-🔍 [Optimizing CI/CD Pipelines with GitHub Actions](#)  
-☁️ [Introduction to Infrastructure as Code (IaC)](#)  
+🚀 [How install Arch Linux](https://github.com/KMontasir/Procedures/blob/main/ArchLinux/01-ArchLinux-Install.pdf)  
+🔍 [How install and configure the service SSH on Arch Linux](https://github.com/KMontasir/Procedures/blob/main/ArchLinux/02-ArchLinux-SSH.pdf)  
 <!-- BLOG-POST-LIST:END -->
 
 ---
