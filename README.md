@@ -13,7 +13,7 @@
 
 ## 🏆 About Me  
 
-🚀 **IT Professional & passionate** about **automation, scripting, and cloud computing**.  
+🚀 IT Professional & passionate about **automation, scripting, and cloud computing**.  
 💡 I specialize in **Linux, Infrastructure as Code (IaC), and IT security**.  
 🔍 Always **learning, innovating, and contributing** to open-source projects.  
 
