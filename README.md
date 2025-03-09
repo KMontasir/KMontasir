@@ -11,24 +11,6 @@
 
 ---
 
-## 🏆 About Me  
-
-🚀 IT Professional & passionate about **automation, scripting, and cloud computing**.  
-💡 I specialize in **Linux, Infrastructure as Code (IaC), and IT security**.  
-🔍 Always **learning, innovating, and contributing** to open-source projects.  
-
-📫 **Let's Connect!**  
-<p align="center">
-  <a href="https://www.linkedin.com/in/montasir-k/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:khoulkhali_montasir@laposte.net">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
 ## 🔥 Technical Skills  
 
 <p align="center">
@@ -44,6 +26,24 @@
   <img src="https://img.shields.io/badge/IaC-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
   <img src="https://img.shields.io/badge/Monitoring-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   <img src="https://img.shields.io/badge/Monitoring-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+</p>
+
+---
+
+## 🏆 About Me  
+
+🚀 IT Professional & passionate about **automation, scripting, and cloud computing**.  
+💡 I specialize in **Linux, Infrastructure as Code (IaC), and IT security**.  
+🔍 Always **learning, innovating, and contributing** to open-source projects.  
+
+📫 **Let's Connect!**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/montasir-k/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:khoulkhali_montasir@laposte.net">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
