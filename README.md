@@ -11,6 +11,16 @@
 
 ---
 
+📫 **Let's Connect!**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/montasir-k/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:khoulkhali_montasir@laposte.net">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 ## 🔥 Technical Skills  
 
 <p align="center">
@@ -35,16 +45,6 @@
 🚀 IT Professional & passionate about **automation, scripting, and cloud computing**.  
 💡 I specialize in **Linux, Infrastructure as Code (IaC), and IT security**.  
 🔍 Always **learning, innovating, and contributing** to open-source projects.  
-
-📫 **Let's Connect!**  
-<p align="center">
-  <a href="https://www.linkedin.com/in/montasir-k/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:khoulkhali_montasir@laposte.net">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
 
 ---
 
