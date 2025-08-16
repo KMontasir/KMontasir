@@ -6,7 +6,7 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile 🎉</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=DevOps+Engineer+%7C+System+Administrator;IT+Technician+%7C+Automation+Enthusiast;Open-Source+Contributor+%7C+Cloud+Expert;Welcome+to+my+repositories!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=DevOps+%7C+System+and+Network+Administrator;IT+Technician+%7C+Automation+Enthusiast;Open-Source+Contributor+%7C;Welcome+to+my+repositories!" alt="Typing SVG">
 </p>
 
 ---
